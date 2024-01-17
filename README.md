@@ -6,7 +6,7 @@ Se busco en elementos del dom a través de su ruta Xpath para ingresar datos de 
 
 ## Instalación
 
-Install my-project with npm
+Instalar dependencias
 
 ```bash
   pip install pandas
@@ -18,7 +18,7 @@ Install my-project with npm
 ![](https://github.com/OneSuchDan/python-selenium-auto/blob/main/upload.gif)
 
 
-## Authors
+## Autor
 
 - [@OneSuchDan](https://www.github.com/OneSuchDan)
 
